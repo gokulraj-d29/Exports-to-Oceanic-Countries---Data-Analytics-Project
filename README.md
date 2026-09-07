@@ -68,16 +68,4 @@ Exports_Oceanic_Trade_Analysis/
 
 ---
 
-## ⚡ How to Run
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/Exports_Oceanic_Trade_Analysis.git
 
-# Navigate into the project folder
-cd Exports_Oceanic_Trade_Analysis
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch Jupyter Notebook
-jupyter notebook notebooks/Exports_Analysis.ipynb
